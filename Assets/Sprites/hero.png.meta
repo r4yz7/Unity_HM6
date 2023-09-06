@@ -1,0 +1,517 @@
+fileFormatVersion: 2
+guid: 2cb46e273d4b2f54590bbf56626f90ab
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_1"
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 2087
+        width: 420
+        height: 638
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a53b5ba2a0a754fa0683a8f496bec0
+      internalID: -134238384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_4"
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 2527
+        width: 8
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d9515390305144281d08f66c5177dd
+      internalID: 897231888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_5"
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 1967
+        width: 440
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe36628c57e1a65449291678fd7781a7
+      internalID: 1921450269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_6"
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 1965
+        width: 385
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb0b2c0a5c9ada4095959692675dfef
+      internalID: 573036730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_7"
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 2426
+        width: 8
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9da86f489a34b42bb352b2b05f6a1e
+      internalID: 1323407710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_8"
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 2420
+        width: 8
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d0001e92ea38a4e9906abfcefca986
+      internalID: -562597010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_14"
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1176
+        width: 352
+        height: 662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dabb35b03fd2f744af23d85669ff3ff
+      internalID: 398866643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_16"
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 1181
+        width: 434
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f15d8b71918d7949809d391b16762e3
+      internalID: -67209159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_17"
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1633
+        width: 12
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce5080aed8a2bb48916582385f475bc
+      internalID: 844299568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_18"
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1139
+        width: 422
+        height: 639
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c66cb3f29c1ed046a1efa50fdb168a9
+      internalID: -265400986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_19"
+      rect:
+        serializedVersion: 2
+        x: 2711
+        y: 1639
+        width: 8
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95d94b081814ad428c1df9ebc1dc561
+      internalID: -700972062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_20"
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 1581
+        width: 8
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5321465782e602d42985ae18ab457ade
+      internalID: 1464515153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_26"
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 141
+        width: 394
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4af864829573e4c8dc0192e97e0082
+      internalID: 1926451790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_27"
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 596
+        width: 8
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ecfffe9c6e8ae4eb1fa6379786ac97
+      internalID: -1817302983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_28"
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 139
+        width: 350
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af88feb3aaf7b84d887b2b81a63ce3c
+      internalID: -2004440209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_29"
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 642
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3862df25d0251045b2297855abca2a4
+      internalID: 1748708053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014sprite sheet of the flash_5268150_30"
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 595
+        width: 12
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081c84c3273fb8f4e9bf3b5d71140838
+      internalID: 305251795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "\u2014Pngtree\u2014sprite sheet of the flash_5268150_0": 422576026
+      "\u2014Pngtree\u2014sprite sheet of the flash_5268150_1": -134238384
+      "\u2014Pngtree\u2014sprite sheet of the flash_5268150_10": 1868032104
+      "\u2014Pngtree\u2014sprite sheet of the flash_5268150_11": -193113857
+      "\u2014Pngtree\u2014sprite sheet of the flash_5268150_12": -701602872
+      "\u2014Pngtree\u2014sprite sheet of the flash_5268150_13": 676289052
+      "\u2014Pngtree\u2014sprite sheet of the flash_5268150_14": 398866643
+      "\u2014Pngtree\u2014sprite sheet of the flash_5268150_15": 798383108
+      "\u2014Pngtree\u2014sprite sheet of the flash_5268150_16": -67209159
+      "\u2014Pngtree\u2014sprite sheet of the flash_5268150_17": 844299568
+      "\u2014Pngtree\u2014sprite sheet of the flash_5268150_18": -265400986
+      "\u2014Pngtree\u2014sprite sheet of the flash_5268150_19": -700972062
+      "\u2014Pngtree\u2014sprite sheet of the flash_5268150_2": -1784068437
+      "\u2014Pngtree\u2014sprite sheet of the flash_5268150_20": 1464515153
+      "\u2014Pngtree\u2014sprite sheet of the flash_5268150_21": 429687248
+      "\u2014Pngtree\u2014sprite sheet of the flash_5268150_22": 290047451
+      "\u2014Pngtree\u2014sprite sheet of the flash_5268150_23": -125134205
+      "\u2014Pngtree\u2014sprite sheet of the flash_5268150_24": -329882144
+      "\u2014Pngtree\u2014sprite sheet of the flash_5268150_25": 431737463
+      "\u2014Pngtree\u2014sprite sheet of the flash_5268150_26": 1926451790
+      "\u2014Pngtree\u2014sprite sheet of the flash_5268150_27": -1817302983
+      "\u2014Pngtree\u2014sprite sheet of the flash_5268150_28": -2004440209
+      "\u2014Pngtree\u2014sprite sheet of the flash_5268150_29": 1748708053
+      "\u2014Pngtree\u2014sprite sheet of the flash_5268150_3": 1865559766
+      "\u2014Pngtree\u2014sprite sheet of the flash_5268150_30": 305251795
+      "\u2014Pngtree\u2014sprite sheet of the flash_5268150_31": -595723151
+      "\u2014Pngtree\u2014sprite sheet of the flash_5268150_32": 1758406831
+      "\u2014Pngtree\u2014sprite sheet of the flash_5268150_4": 897231888
+      "\u2014Pngtree\u2014sprite sheet of the flash_5268150_5": 1921450269
+      "\u2014Pngtree\u2014sprite sheet of the flash_5268150_6": 573036730
+      "\u2014Pngtree\u2014sprite sheet of the flash_5268150_7": 1323407710
+      "\u2014Pngtree\u2014sprite sheet of the flash_5268150_8": -562597010
+      "\u2014Pngtree\u2014sprite sheet of the flash_5268150_9": -141359939
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
